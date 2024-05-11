@@ -1,7 +1,7 @@
 
 # Hola soy Matias Garcia
 Soy estudiante de Ingenieria en sistemas de la UCB y soy de Bolivia, creativo, alegre y apasionado en el Futbol y la tecnologia
-
+tengo certificado de Bachillerato tecnico Humanistico (BTH) ganado en mi colegio Celso Raffaelli, obtuve 1er lugar en Velocidad (105m) en las olimpiadas plurinacionales, subcampeon de Futbol en las olimpiadas plurinacionales y 2do lugar en las olimpiadas cientificas en el area de Robotica
 
 
 ## 🔗 Links
